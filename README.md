@@ -1,7 +1,7 @@
 # YOUR PROJECT NAME
 
 ## Contributors
-- PERSON
+- Yiji zhang
 - PERSON
 
 ## Dependencies
